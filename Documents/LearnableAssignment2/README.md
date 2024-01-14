@@ -12,3 +12,8 @@ Gitea
 
 ### Explain Difference between gitfetch and gitpull
 git fetch is the command that tells your local git to retrieve the latest meta-data info from the original (yet doesn't do any file transferring. It's more like just checking to see if there are any changes available). git pull on the other hand does that AND brings (copy) those changes from the remote repository
+
+### Explain git rebase and givr its command
+A Git rebase changes the base of the developer’s branch from one commit to another, so it looks like they have created their branch from a different commit.
+
+the git rebase command is = git rebase <base>
