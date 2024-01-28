@@ -1,5 +1,5 @@
 ("use strict");
-//A simple Movie Renting Api console application usin ES6 classes.
+//A simple Movie Renting Api console application usin ES6 classes in Javascript OOP.
 
 const prompt = require("prompt-sync")({ sigint: true });
 
